@@ -1,0 +1,6 @@
+[submodule "caminho/do/submodulo"]
+	path = caminho/do/submodulo
+	url = https://github.com/GabrielCriste/Ram.git
+[submodule "Ram"]
+	path = Ram
+	url = https://github.com/GabrielCriste/Ram.git
