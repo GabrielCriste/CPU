@@ -1,0 +1,3 @@
+#!/bin/bash
+# Inicializar submódulos
+git submodule update --init --recursive
